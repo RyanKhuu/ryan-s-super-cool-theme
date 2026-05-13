@@ -1,0 +1,22 @@
+{
+  "name": "ryan-s-super-cool-theme",
+  "displayName": "Ryan's Super Cool Theme",
+  "description": "Ryan's Color Theme",
+  "publisher": "RyanKhuu",
+  "version": "0.0.5",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ryan's Super Cool Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ryan's Super Cool Theme-color-theme.json"
+      }
+    ]
+  }
+}
